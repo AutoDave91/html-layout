@@ -1,0 +1,60 @@
+.first-box, .second-box {
+    width: 90vw;
+    height: 33vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.first-box{
+    border: 3px solid black;
+}
+#purple{
+    background-color: purple;
+    margin-left: 1%;
+    margin-right: 5%;
+    height: 70%;
+    width: 5%;
+    display: inline-block;
+}
+#green{
+    background-color: green;
+    
+    height: 90%;
+    width: 40%;
+    margin-right: 5%;
+    display: inline-block;
+}
+#blue{
+    background-color: lightblue;
+    height: 90%;
+    width: 30%;
+    border-radius: 50%;
+    display: inline-block;
+}
+.second-box{
+    border: 3px dotted black;
+}
+#yellow{
+    background-color: palegoldenrod;
+    height: 80%;
+    width: 90%;
+    margin:auto;
+    margin-top: 4%;
+    box-shadow: 10px 10px black;
+}
+
+.third-box{
+    border: 1px solid gray;
+    height: 20vw;
+    width: 40%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#note{
+    padding-left: 30%;
+    padding-top: 18%;
+    font-family: 'Roboto', ;
+    font-size: 30px;
+    color: blue;
+}

@@ -1,0 +1,39 @@
+div{
+    width: 100%;
+}
+.gray{
+    background-color: lightgray;
+    height: 15vw;
+}
+#blue-box {
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    margin-top: 1%;
+    margin-left: 2%;
+    display: inline-block;
+}
+.white{
+    background-color: whitesmoke;
+    height: 25vw;
+}
+#text{
+    padding: 5%;
+    font-family: 'Roboto', serif;
+    font-size: 32px;
+}
+.blue, .greenish, .green, .yellow {
+    height: 15vw;
+}
+.blue{
+    background-color: blue;
+}
+.greenish{
+    background-color: rgb(35, 211, 211);
+}
+.green{
+    background-color: greenyellow;
+}
+.yellow{
+    background-color: yellow;
+}
